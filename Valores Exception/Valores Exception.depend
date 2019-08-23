@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1566434177 source:c:\users\wesll\햞ea de trabalho\valores exception\src\testevalidanumero.cpp
+	"TesteValidaNumero.h"
+
+1566432840 c:\users\wesll\햞ea de trabalho\valores exception\include\testevalidanumero.h
+	"ValorAbaixoException.h"
+	"ValorAcimaException.h"
+	"ValorMuitoAcimaException.h"
+
+1566432216 c:\users\wesll\햞ea de trabalho\valores exception\include\valorabaixoexception.h
+	<string>
+	<exception>
+
+1566434210 c:\users\wesll\햞ea de trabalho\valores exception\include\valoracimaexception.h
+	<string>
+	<exception>
+
+1566434232 c:\users\wesll\햞ea de trabalho\valores exception\include\valormuitoacimaexception.h
+	<string>
+	<exception>
+
+1566432472 source:c:\users\wesll\햞ea de trabalho\valores exception\src\valorabaixoexception.cpp
+	"ValorAbaixoException.h"
+
+1566434300 source:c:\users\wesll\햞ea de trabalho\valores exception\main.cpp
+	<iostream>
+	"ValorAbaixoException.h"
+	"ValorAcimaException.h"
+	"ValorMuitoAcimaException.h"
+	"TesteValidaNumero.h"
+
