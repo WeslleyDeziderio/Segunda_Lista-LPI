@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1566411415 source:c:\users\aluno\desktop\medico\main.cpp
+	<iostream>
+	"Medico.h"
+	"Cirurgiao.h"
+	"Oftalmologista.h"
+	"Otorrino.h"
+	"Ginecologista.h"
+
+1566411108 c:\users\aluno\desktop\medico\include\medico.h
+	<string>
+
+1566411475 c:\users\aluno\desktop\medico\include\cirurgiao.h
+	"Medico.h"
+	<string>
+	<iostream>
+
+1566411724 c:\users\aluno\desktop\medico\include\oftalmologista.h
+	"Medico.h"
+	<iostream>
+	<string>
+
+1566411180 c:\users\aluno\desktop\medico\include\otorrino.h
+	<string>
+	<iostream>
+	"Medico.h"
+
+1566408270 c:\users\aluno\desktop\medico\include\ginecologista.h
+
+1566411502 source:c:\users\aluno\desktop\medico\src\cirurgiao.cpp
+	"Cirurgiao.h"
+
+1566408270 source:c:\users\aluno\desktop\medico\src\ginecologista.cpp
+	"Ginecologista.h"
+
+1566411475 source:c:\users\aluno\desktop\medico\src\medico.cpp
+	"Medico.h"
+
+1566408259 source:c:\users\aluno\desktop\medico\src\otorrino.cpp
+	"Otorrino.h"
+
+1566411174 source:c:\users\aluno\desktop\medico\src\oftalmologista.cpp
+	"Oftalmologista.h"
+
+1566438818 source:c:\users\wesll\downloads\medico\src\cirurgiao.cpp
+	"../include/Cirurgiao.h"
+
+1566438265 source:c:\users\wesll\downloads\medico\src\ginecologista.cpp
+	"../include/Ginecologista.h"
+
+1566438818 source:c:\users\wesll\downloads\medico\src\medico.cpp
+	"../include/Medico.h"
+
+1566438818 source:c:\users\wesll\downloads\medico\src\oftalmologista.cpp
+	"../include/Oftalmologista.h"
+
+1566438272 source:c:\users\wesll\downloads\medico\src\otorrino.cpp
+	"../include/Otorrino.h"
+
+1566438714 source:c:\users\wesll\downloads\medico\main.cpp
+	<iostream>
+	"include/Medico.h"
+	"include/Cirurgiao.h"
+	"include/Oftalmologista.h"
+	"include/Otorrino.h"
+	"include/Ginecologista.h"
+
+1566397448 c:\users\wesll\downloads\medico\include\medico.h
+	<string>
+
+1566397448 c:\users\wesll\downloads\medico\include\cirurgiao.h
+	"Medico.h"
+	<string>
+	<iostream>
+
+1566397448 c:\users\wesll\downloads\medico\include\oftalmologista.h
+	"Medico.h"
+	<iostream>
+	<string>
+
+1566438248 c:\users\wesll\downloads\medico\include\otorrino.h
+	"Medico.h"
+	<string>
+	<iostream>
+
+1566438308 c:\users\wesll\downloads\medico\include\ginecologista.h
+	"Medico.h"
+	<string>
+	<iostream>
+
