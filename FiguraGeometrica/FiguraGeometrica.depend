@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1565894495 source:c:\users\wesll\햞ea de trabalho\figurageometrica\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+
+1565898032 c:\users\wesll\햞ea de trabalho\figurageometrica\include\figurageometrica.h
+	<string>
+
+1565899092 source:c:\users\wesll\햞ea de trabalho\figurageometrica\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1565898933 source:c:\users\wesll\햞ea de trabalho\figurageometrica\src\circulo.cpp
+	"Circulo.h"
+
+1565899171 c:\users\wesll\햞ea de trabalho\figurageometrica\include\circulo.h
+	"FiguraGeometrica.h"
+
+1565899093 source:c:\users\wesll\햞ea de trabalho\figurageometrica\src\quadrado.cpp
+	"Quadrado.h"
+	"FiguraGeometrica.h"
+
+1565899336 c:\users\wesll\햞ea de trabalho\figurageometrica\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1565898919 source:c:\users\wesll\햞ea de trabalho\figurageometrica\src\triangulo.cpp
+	"Triangulo.h"
+
+1565898032 c:\users\wesll\햞ea de trabalho\figurageometrica\include\triangulo.h
+	"FiguraGeometrica.h"
+
