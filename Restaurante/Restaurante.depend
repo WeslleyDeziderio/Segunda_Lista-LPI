@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1566518670 source:c:\users\wesll\햞ea de trabalho\restaurante\main.cpp
+	<iostream>
+	"Pedido.h"
+	"RestauranteCaseiro.h"
+	"MesaDeRestaurante.h"
+
+1566516881 c:\users\wesll\햞ea de trabalho\restaurante\include\pedido.h
+	<string>
+
+1566516958 source:c:\users\wesll\햞ea de trabalho\restaurante\src\pedido.cpp
+	"Pedido.h"
+	<iostream>
+
+1566518407 source:c:\users\wesll\햞ea de trabalho\restaurante\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	<iostream>
+
+1566518017 c:\users\wesll\햞ea de trabalho\restaurante\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
+1566517332 c:\users\wesll\햞ea de trabalho\restaurante\include\mesaderestaurante.h
+	"Pedido.h"
+
