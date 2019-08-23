@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1565128686 source:c:\users\aluno\desktop\conta_bancaria\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+
+1565125952 c:\users\aluno\desktop\conta_bancaria\include\iconta.h
+
+1565128277 c:\users\aluno\desktop\conta_bancaria\include\conta.h
+	"IConta.h"
+	<string>
+
+1565128764 source:c:\users\aluno\desktop\conta_bancaria\src\conta.cpp
+	"Conta.h"
+	"IConta.h"
+	<string>
+
+1565128750 source:c:\users\aluno\desktop\conta_bancaria\src\contaespecial.cpp
+	"ContaEspecial.h"
+	"Conta.h"
+
+1565128721 c:\users\aluno\desktop\conta_bancaria\include\contaespecial.h
+	"Conta.h"
+
+1565125954 source:c:\users\aluno\desktop\conta_bancaria\src\iconta.cpp
+	"IConta.h"
+
+1566406825 source:c:\users\aluno\downloads\lp1-lista2-maritan-master\conta bancaria\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+	"SaldoNaoDisponivelException.h"
+
+1565889792 c:\users\aluno\downloads\lp1-lista2-maritan-master\conta bancaria\include\iconta.h
+
+1565889792 c:\users\aluno\downloads\lp1-lista2-maritan-master\conta bancaria\include\conta.h
+	"IConta.h"
+	<string>
+
+1565889792 c:\users\aluno\downloads\lp1-lista2-maritan-master\conta bancaria\include\contaespecial.h
+	"Conta.h"
+
+1565889792 source:c:\users\aluno\downloads\lp1-lista2-maritan-master\conta bancaria\src\conta.cpp
+	"Conta.h"
+	"IConta.h"
+	<string>
+
+1565889792 source:c:\users\aluno\downloads\lp1-lista2-maritan-master\conta bancaria\src\contaespecial.cpp
+	"ContaEspecial.h"
+	"Conta.h"
+
+1565889792 source:c:\users\aluno\downloads\lp1-lista2-maritan-master\conta bancaria\src\iconta.cpp
+	"IConta.h"
+
+1566405864 source:c:\users\aluno\downloads\lp1-lista2-maritan-master\conta bancaria\src\saldonaodisponivelexception.cpp
+	"SaldoNaoDisponivelException.h"
+
+1566405792 c:\users\aluno\downloads\lp1-lista2-maritan-master\conta bancaria\include\saldonaodisponivelexception.h
+	<exception>
+	<string>
+
