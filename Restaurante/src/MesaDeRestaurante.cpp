@@ -28,7 +28,7 @@ void MesaDeRestaurante::zeraPedidos(){
 double MesaDeRestaurante::calculaTotal(){
     double total = 0;
     for(int i = 0; i < 10; i++){
-        total += (pedidos[i].getPreco() * pedidos[i].getQuantidade());
+        total += pedidos[i].getPreco() * pedidos[i].getQuantidade();
     }
     return total;
 }
